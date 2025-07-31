@@ -1,0 +1,10 @@
+tree 6a84683:crypto_pipeline_project
+
+.gitignore
+README.md
+crypto_pipeline_project/
+crypto_pipeline_project_tests/
+data/
+pyproject.toml
+setup.cfg
+setup.py
