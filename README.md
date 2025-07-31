@@ -212,7 +212,7 @@ Built by **Athirath Bommerla** — Data Engineer & ML Enthusiast 🚀
 
 - 📫 **LinkedIn:** [linkedin.com/in/athirath-bommerla](https://www.linkedin.com/in/athirath-bommerla-7a1076237/)
 - 💻 **GitHub:** [github.com/Athirath-1304](https://github.com/Athirath-1304)
-- 📧 **Email:** athirathbommerla@gmail.com
+- 📧 **Email:** athirathbommerla7@gmail.com
 
 ---
 
